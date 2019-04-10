@@ -1,4 +1,4 @@
-<img src="https://github.com/geoportti/example_taito_howto/blob/master/geoportti_logo_484px.png" width="300">
+<img src="https://github.com/geoportti/Logos/blob/master/geoportti_logo_484px.png">
 
 # GeoCubes Finland
 GeoCubes Finland is a harmonised, multi-resolution raster geodata repository containing several national datasets from themes like Digital Elevation Model, superficial deposits, land cover and forestry. 
