@@ -7,4 +7,4 @@ You can access the data repository and see examples of usage at [GeoCubes websit
 
 ## Usage and Citing
 When using GeoCubes, the following citing should be mentioned:
-"We made use of geospatial data/computing resources provided by the Open Geospatial Information Infrastructure for Research (oGIIR, urn:nbn:fi:research-infras-2016072513) funded by the Academy of Finland."
+"We made use of geospatial data/instructions/computing resources provided by the Open Geospatial Information Infrastructure for Research (oGIIR, urn:nbn:fi:research-infras-2016072513) funded by the Academy of Finland."
